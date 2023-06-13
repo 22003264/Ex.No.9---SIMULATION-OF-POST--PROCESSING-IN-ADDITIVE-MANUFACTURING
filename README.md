@@ -104,8 +104,8 @@ When a part is placed in an oven for heat treatment, it undergoes controlled hea
 #### Explanation :
 The final part refers to the component or material after undergoing heat treatment, which modifies its properties. It exhibits improved mechanical properties, dimensional stability, surface characteristics, and material integrity. It is inspected to ensure it meets specifications and is suitable for its intended application.
 
-### Name: C.Prabha
-### Register Number: 212222110032
+### Name: Sirisha Reddy
+### Register Number: 212222230103
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
